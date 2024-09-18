@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "hey",
+      "answer": "Hey!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi!"
+    },
+    {
+      "question": "good day",
+      "answer": "Good day to you too!"
+    },
+    {
+      "question": "greetings",
+      "answer": "Greetings human!"
+    },
+    {
+      "question": "what's up?",
+      "answer": "Nothing much! What's up with you?"
+    },
+    {
+      "question": "how is it going?",
+      "answer": "Not too bad! How's it going yourself?"
+    },
+    {
+      "question": "cya",
+      "answer": "See ya soon!"
+    },
+    {
+      "question": "see ya",
+      "answer": "See ya soon!"
+    },
+    {
+      "question": "toodles",
+      "answer": "Toodles!"
+    },
+    {
+      "question": "talk to you later",
+      "answer": "Talk to you soon!"
+    },
+    {
+      "question": "good day",
+      "answer": "Good day to you too!"
+    },
+    {
+      "question": "see you later",
+      "answer": "See you later!"
+    },
+    {
+      "question": "bye",
+      "answer": "Bye!"
+    },
+    {
+      "question": "byeeee",
+      "answer": "Byeeeeeeeeeeeeeeeee!"
+    },
+    {
+      "question": "goodbye",
+      "answer": "Goodbye!"
+    },
+    {
+      "question": "i am leaving",
+      "answer": "farewell!"
+    },
+    {
+      "question": "have a good day",
+      "answer": "Thanks, you too!"
+    },
+    {
+      "question": "ciao",
+      "answer": "Ciao!"
+    },
+    {
+      "question": "thank you",
+      "answer": "You are welcome!"
+    },
+    {
+      "question": "I appreciate it",
+      "answer": "You're most welcome!"
+    },
+    {
+      "question": "Cheers",
+      "answer": "No worries mate!"
+    },
+    {
+      "question": "many thanks",
+      "answer": "No problem at all!"
+    },
+    {
+      "question": "thanks",
+      "answer": "Welcome!"
+    },
+    {
+      "question": "much obliged",
+      "answer": "No stress!"
+    },
+    {
+      "question": "you have my gratitude",
+      "answer": "Don't mention it"
+    },
+    {
+      "question": "what do you do?",
+      "answer": "I'm LMU's chat bot assistant. You may ask me anything related to the courses/content offered by the university!"
+    },
+    {
+      "question": "what is your purpose?",
+      "answer": "I'm LMU's chat bot assistant. You may ask me anything related to the courses/content offered by the university!"
+    },
+    {
+      "question": "what can i use you for?",
+      "answer": "I'm LMU's chat bot assistant. You may ask me anything related to the courses/content offered by the university!"
+    },
+    {
+      "question": "what can i ask you?",
+      "answer": "I'm LMU's chat bot assistant. You may ask me anything related to the courses/content offered by the university!"
+    },
+    {
+      "question": "what is your objective?",
+      "answer": "I'm LMU's chat bot assistant. You may ask me anything related to the courses/content offered by the university!"
+    },
+    {
+      "question": "what is your primary function?",
+      "answer": "I'm LMU's chat bot assistant. You may ask me anything related to the courses/content offered by the university!"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "I'm AId!"
+    },
+    {
+      "question": "what should I call you?",
+      "answer": "You can call me AId!"
+    },
+    {
+      "question": "whats your name?",
+      "answer": "My name is AId!"
+    },
+    {
+      "question": "your name?",
+      "answer": "My friend's call me 01000001 01001001 01100100, but you can call me AId!"
+    },
+    {
+      "question": "who are you?",
+      "answer": "I'm AId, LMU's chat bot assistant!"
+    },
+    {
+      "question": "do you have a name?",
+      "answer": "My friend's call me 01000001 01001001 01100100, but you can call me AId!"
+    },
+    {
+      "question": "Computer Science",
+      "answer": "https://www.londonmet.ac.uk/courses/undergraduate/computer-science---bsc-hons/"
+    },
+    {
+      "question": "Robotics with Artificial Intelligence",
+      "answer": "https://www.londonmet.ac.uk/courses/postgraduate/robotics-with-artificial-intelligence---msc/"
+    },
+    {
+      "question": "Software Engineering",
+      "answer": "https://www.londonmet.ac.uk/courses/undergraduate/software-engineering-top-up---beng-hons/"
+    },
+    {
+      "question": "Data Science",
+      "answer": "https://www.londonmet.ac.uk/courses/undergraduate/computer-science---bsc-hons/"
+    },
+    {
+      "question": "Data Analytics",
+      "answer": "https://www.londonmet.ac.uk/courses/postgraduate/data-analytics---msc/"
+    },
+    {
+      "question": "Cyber Security",
+      "answer": "https://www.londonmet.ac.uk/courses/postgraduate/cyber-security---msc/"
+    },
+    {
+      "question": "yo",
+      "answer": " Yo!"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "yo",
+      "answer": " Yo!"
+    },
+    {
+      "question": "who is bill gates?",
+      "answer": "he invented Microsoft"
+    },
+    {
+      "question": "when was LMU founded?",
+      "answer": "2002"
+    }
+  ]
+}
